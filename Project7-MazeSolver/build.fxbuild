@@ -1,0 +1,8 @@
+<?ml version="1.0" encoding="ASCII"?>
+<nttsks:AntTsk mi:version="2.0" mlns:mi="http://www.omg.org/XMI" mlns:nttsks="http://org.eclipse.f.ide.jdt/1.0" buildDirectory="${project}/build">
+  <deploy>
+    <ppliction nme="Project7-MzeSolver"/>
+    <info/>
+  </deploy>
+  <signjr/>
+</nttsks:AntTsk>
